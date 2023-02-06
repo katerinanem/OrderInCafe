@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">OrderInCafe</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="username_hint">Имя пользователя</string>
+    <string name="hint_password">Пароль</string>
+    <string name="come_in">ВОЙТИ</string>
+    <string name="greeting">Привет, %s, что желаете?</string>
+    <string name="tea">Чай</string>
+    <string name="coffee">Кофе</string>
+    <string name="additions">Что добавить в ваш %s?</string>
+    <string name="sugar">Сахар</string>
+    <string name="lemon">Лимон</string>
+    <string name="milk">Молоко</string>
+    <string name="choose_drink">Выберите тип напитка:</string>
+    <string name="make_order">Сделать заказ</string>
+
+    <array name="types_of_tea">
+        <item>Зеленый</item>
+        <item>Черный</item>
+        <item>Травяной</item>
+    </array>
+
+
+    <array name="types_of_coffee">
+        <item>Американо</item>
+        <item>Капучино</item>
+        <item>Латте</item>
+        <item>Эспрессо</item>
+    </array>
+</resources>
